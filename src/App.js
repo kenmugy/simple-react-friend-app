@@ -9,7 +9,7 @@ class App extends Component {
       friends: [
         { name: 'john', active: true },
         { name: 'jane', active: true },
-        { name: 'pete', active: true }
+        { name: 'pete', active: false }
       ],
       input: ''
     };
